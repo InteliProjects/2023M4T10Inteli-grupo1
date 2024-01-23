@@ -1,0 +1,78 @@
+# Prerequisites
+*.d
+
+# Databases
+*.csv
+*.tsv
+*.xls
+*.xlsx
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Arquivos e pastas geradas pelo Visual Studio
+.vscode/
+.vs/
+bin/
+obj/
+packages/
+*.user
+*.suo
+*.cache
+*.log
+*.dll
+*.sln.docstates
+*_i.c
+*_p.c
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*.vssscc
+*.pidb
+*.ipch/
+
+# Arquivos de desenvolvimento
+appsettings.json
+appsettings.Development.json
+
+\node_modules
